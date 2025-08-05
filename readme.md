@@ -2,6 +2,17 @@
   <h1>Gabriel Esmeraldo's</h1>
 </div>
 
+<!-- Pins -->
+
+<div align="center">
+    <picture>  
+        <a href="https://github.com/gabesmeraldo/pomodoroproject">
+        <img alt="Currently listening to" src="https://github-readme-stats.vercel.app/api/pin/?username=gabesmeraldo&repo=pomodoroproject&theme=dracula&hide_border=true">
+    </picture>
+</div>
+
+<!-- Cool things -->
+
 <div align="center">
   <picture>
     <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=GabEsmeraldo&label=Profile%20views&style=aura&color=5865F2">
@@ -15,6 +26,8 @@
     <img alt="Currently listening to" src="https://api.statusbadges.me/badge/spotify/235845511918256129?label=Listening%20to">
   </picture>
 </div>
+
+<!-- Stats, Alot -->
 
 <div align="center" style="margin-bottom: 20px;">
   <!-- GitHub Stats -->
@@ -57,6 +70,8 @@
   </picture>
 </div>
 
+<!-- self-explanatory -->
+
 ## Language and Tools
 
 #### Languages:
@@ -64,8 +79,6 @@
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=java"/>]()
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=javascript"/>]()
  
-
-
 #### Studying in this moment:
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>]()
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=bash"/>](https://www.gnu.org/software/bash/)
@@ -78,10 +91,7 @@
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=figma"/>]()
  
-
 <br>
-
-
 
 ## Contact me:
 <div>
