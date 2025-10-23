@@ -7,7 +7,9 @@
 <div align="center">
     <picture>  
         <a href="https://github.com/gabesmeraldo/pomodoroproject">
-        <img alt="Currently listening to" src="https://github-readme-stats.vercel.app/api/pin/?username=gabesmeraldo&repo=pomodoroproject&theme=dracula&hide_border=true">
+        <img alt="Some great projects" src="https://github-readme-stats.vercel.app/api/pin/?username=gabesmeraldo&repo=pomodoroproject&theme=dracula&hide_border=true">
+        <a href="https://github.com/gabesmeraldo/swiftui">
+        <img alt="Some great projects" src="https://github-readme-stats.vercel.app/api/pin/?username=gabesmeraldo&repo=swiftui&theme=dracula&hide_border=true">
     </picture>
 </div>
 
