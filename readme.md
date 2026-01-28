@@ -77,21 +77,24 @@
 ## Language and Tools
 
 #### Languages:
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=c"/>]()
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=java"/>]()
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=javascript"/>]()
+
+  [<img height="48px" width="48px" alt="Icone Java" src="https://skillicons.dev/icons?i=java"/>]()
+  [<img height="48px" width="48px" alt="Icone Swift" src="https://skillicons.dev/icons?i=swift"/>]()
+  [<img height="48px" width="48px" alt="Icone JS" src="https://skillicons.dev/icons?i=javascript"/>]()
+  [<img height="48px" width="48px" alt="Icone MySql" src="https://skillicons.dev/icons?i=mysql"/>]()
  
 #### Studying in this moment:
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>]()
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=bash"/>](https://www.gnu.org/software/bash/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=react"/>]()
+  
+  [<img height="48px" width="48px" alt="Icone Bash" src="https://skillicons.dev/icons?i=bash"/>](https://www.gnu.org/software/bash/)
+  [<img height="48px" width="48px" alt="Icone React" src="https://skillicons.dev/icons?i=react"/>]()
 
 #### Tools:
 
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>]()
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=figma"/>]()
+  [<img height="48px" width="48px" alt="Icone Git" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
+  [<img height="48px" width="48px" alt="Icone GitHub" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
+  [<img height="48px" width="48px" alt="Icone Latex" src="https://skillicons.dev/icons?i=latex"/>]()
+  [<img height="48px" width="48px" alt="Icone Figma" src="https://skillicons.dev/icons?i=figma"/>]()
  
 <br>
 
