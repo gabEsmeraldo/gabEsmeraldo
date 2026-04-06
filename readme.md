@@ -3,15 +3,16 @@
 </div>
 
 <!-- Pins -->
-
+<!--
 <div align="center">
     <picture>  
         <a href="https://github.com/gabesmeraldo/pomodoroproject">
-        <img alt="Some great projects" src="https://github-readme-stats.vercel.app/api/pin/?username=gabesmeraldo&repo=pomodoroproject&theme=dracula&hide_border=true">
-        <a href="https://github.com/gabesmeraldo/swiftui">
-        <img alt="Some great projects" src="https://github-readme-stats.vercel.app/api/pin/?username=gabesmeraldo&repo=swiftui&theme=dracula&hide_border=true">
+        <img alt="Simple pomodoro clock for fun" src="https://github-readme-stats.vercel.app/api/pin/?username=gabesmeraldo&repo=pomodoroproject&theme=dracula&hide_border=true">
+        <a href="https://github.com/gabesmeraldo/mapaUnifor">
+        <img alt="SwiftUI project for unifor" src="https://github-readme-stats.vercel.app/api/pin/?username=gabesmeraldo&repo=mapaUnifor&theme=dracula&hide_border=true">
     </picture>
 </div>
+-->
 
 <!-- Cool things -->
 
