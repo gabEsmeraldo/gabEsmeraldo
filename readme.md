@@ -41,12 +41,15 @@
 <!-- self-explanatory -->
 
 ## Language and Tools
-
-#### Languages:
-
+  
+  [<img height="48px" width="48px" alt="Icone MySql" src="https://skillicons.dev/icons?i=ts"/>]()
+  [<img height="48px" width="48px" alt="Icone MySql" src="https://skillicons.dev/icons?i=nestjs"/>]()
+  [<img height="48px" width="48px" alt="Icone MySql" src="https://skillicons.dev/icons?i=mysql"/>]()
+  [<img height="48px" width="48px" alt="Icone MySql" src="https://skillicons.dev/icons?i=docker"/>]() <br>
+  [<img height="48px" width="48px" alt="Icone MySql" src="https://skillicons.dev/icons?i=redis"/>]()
   [<img height="48px" width="48px" alt="Icone Java" src="https://skillicons.dev/icons?i=java"/>]()
   [<img height="48px" width="48px" alt="Icone Swift" src="https://skillicons.dev/icons?i=swift"/>]()
-  [<img height="48px" width="48px" alt="Icone MySql" src="https://skillicons.dev/icons?i=mysql"/>]()
+  [<img height="48px" width="48px" alt="Icone MySql" src="https://skillicons.dev/icons?i=elixir"/>]()
  
 <br>
 
